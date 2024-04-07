@@ -22,3 +22,20 @@ https://openweathermap.org/current
 - `react-toastify`
 - `styled-components`
 - `tailwind css`
+
+## Getting Started
+
+Instructions for setting up and running the project on a local machine.
+
+### Installation
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/vinamrajain19/Weather-app
+2. Install dependencies:
+   ```sh
+   npm install
+3. Get your Open Weather API key from their website and add it in .env file
+4. Run the app:
+   ```sh
+   npm start
