@@ -2,7 +2,7 @@
 
 ### Demo - Deployed on Render
 
-[https://weather-dashboard-8y6i.onrender.com/](https://weather-dashboard-8y6i.onrender.com/)
+[https://weather-dashboard-8y6i.onrender.com/](https://weather-app-zq8w.onrender.com/)
 
 ### APIs Used
 
